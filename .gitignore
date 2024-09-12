@@ -31,3 +31,6 @@ postgres.env
 # Jupyter notebook support files
 .virtual_documents
 .ipynb_checkpoints
+
+# Project data
+data
