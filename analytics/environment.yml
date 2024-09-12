@@ -72,7 +72,8 @@ dependencies:
   - zlib=1.2.13
   - pip:
     - annotated-types==0.7.0
-    - psycopg2-binary==2.9.9
+    - psycopg==3.2.1
+    - psycopg-binary==3.2.1
     - pydantic==2.9.1
     - pydantic-core==2.23.3
     - python-dotenv==1.0.1
