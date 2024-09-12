@@ -23,6 +23,11 @@ go.work.sum
 
 # env file
 .env
+postgres.env
 
 # IntelliJ config files
 .idea
+
+# Jupyter notebook support files
+.virtual_documents
+.ipynb_checkpoints
